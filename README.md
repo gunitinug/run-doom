@@ -2,6 +2,8 @@
 Runner for prboom-plus iwads
 
 ## Operation
+First, customise path to your wads files. By default, it's set to `/my-downloads/Wads`.
+
 `bash run-doom.sh`
 then 
 
