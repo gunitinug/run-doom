@@ -11,4 +11,4 @@ Doom1.WAD  Doom2.wad  Doom3.WAD  Plutonia.wad  Tnt.wad
 
 Enter your choice: 2
 
-Just enter the number :D
+Just enter the number :D In this case you've chosen Doom2.wad.
