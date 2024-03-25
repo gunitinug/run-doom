@@ -4,8 +4,8 @@
 # Get choice number.
 ls /my-downloads/Wads	# custimise path to your wads files
 read -p "Enter your choice: " choice; echo choice: $choice
-upper="$(ls /my-downloads/Wads | wc -l)"
-regex="^[1-$upper]$"
+#upper="$(ls /my-downloads/Wads | wc -l)"
+regex="^[0-9]+$"
 
 # Run the number or quit with error message.
 if [[ "$choice" =~ $regex ]]; then
